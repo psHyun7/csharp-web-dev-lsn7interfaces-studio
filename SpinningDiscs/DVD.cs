@@ -1,7 +1,7 @@
 ﻿using System;
 namespace SpinningDiscs
 {
-    public class DVD : BaseDisc, IOpticalDisc, IDiscsThatSpin
+    public class DVD : BaseDisc, IOpticalDisc
     {
         // TODO: Implement your custom interface.
 
